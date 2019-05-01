@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe62f40-eb45-40b2-ac75-b2765f35b2f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/begin_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/begin-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +34,8 @@
         <option value="$PROJECT_DIR$/BPPD/BPPD_06_Storing_And_Modifyng_Information.ipynb" />
         <option value="$PROJECT_DIR$/BPPD/BPPD_07_Managing_Information.ipynb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb" />
+        <option value="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" />
       </list>
     </option>
   </component>
@@ -58,26 +51,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="begin_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="begin-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="begin_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="begin-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="begin_python" type="462c0819:PsiDirectoryNode" />
+              <item name="BPPD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="begin-python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="begin_python" type="462c0819:PsiDirectoryNode" />
+              <item name="BPPD" type="462c0819:PsiDirectoryNode" />
+              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/IntelliJ.Portuguese.Brazil.Dictionary-master/portuguese-brazil_without-accents.dic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -106,7 +111,7 @@
   </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="begin_python" />
+      <module name="begin-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -140,12 +145,14 @@
       <option name="presentableId" value="Default" />
       <updated>1556400126840</updated>
       <workItem from="1556400129239" duration="8862000" />
-      <workItem from="1556455662212" duration="3273000" />
+      <workItem from="1556455662212" duration="3490000" />
+      <workItem from="1556462746031" duration="57000" />
+      <workItem from="1556717459931" duration="4767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12135000" />
+    <option name="totallyTimeSpent" value="17176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -158,9 +165,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.195629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -172,10 +178,10 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Jupyter" order="11" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.36836404" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.36836404" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -214,18 +220,27 @@
     <entry file="file://$PROJECT_DIR$/BPPD/BPPD_06_Storing_And_Modifyng_Information.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_07_Managing_Information.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+            <caret column="13" selection-start-column="13" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_07_Managing_Information.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BPPD/.ipynb_checkpoints/BPPD_08_Making_Decisions-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
