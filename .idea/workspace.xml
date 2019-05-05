@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffe62f40-eb45-40b2-ac75-b2765f35b2f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/begin_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/begin-python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPPD/BPPD_10_Dealing_with_ Errors.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BPPD/BPPD_10_Dealing_with_ Errors.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +40,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb" />
         <option value="$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb" />
+        <option value="$PROJECT_DIR$/BPPD/BPPD_10_Dealing_with_ Errors.ipynb" />
       </list>
     </option>
   </component>
@@ -62,12 +67,6 @@
               <item name="begin-python" type="b2602c69:ProjectViewProjectNode" />
               <item name="begin_python" type="462c0819:PsiDirectoryNode" />
               <item name="BPPD" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="begin-python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="begin_python" type="462c0819:PsiDirectoryNode" />
-              <item name="BPPD" type="462c0819:PsiDirectoryNode" />
-              <item name=".ipynb_checkpoints" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,12 +146,13 @@
       <workItem from="1556400129239" duration="8862000" />
       <workItem from="1556455662212" duration="3490000" />
       <workItem from="1556462746031" duration="57000" />
-      <workItem from="1556717459931" duration="4767000" />
+      <workItem from="1556717459931" duration="5821000" />
+      <workItem from="1557058108176" duration="5212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17176000" />
+    <option name="totallyTimeSpent" value="23442000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -165,8 +165,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19989339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20202559" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -180,8 +181,8 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="11" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.36836404" />
+      <window_info anchor="bottom" id="Jupyter" order="11" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.36836404" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -236,10 +237,13 @@
     <entry file="file://$PROJECT_DIR$/BPPD/.ipynb_checkpoints/BPPD_08_Making_Decisions-checkpoint.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BPPD/BPPD_09_Performing_Repetitive_Tasks.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_08_Making_Decisions.ipynb">
+    <entry file="file://$PROJECT_DIR$/BPPD/BPPD_10_Dealing_with_ Errors.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
